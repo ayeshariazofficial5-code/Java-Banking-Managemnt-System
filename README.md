@@ -31,6 +31,8 @@ SimpleBankSystem/
 │── LICENSE
 │── README.md
 │── SimpleBankSystem.java
+│── 1.png
+│── 2.png
 ```
 
 ---
@@ -63,6 +65,17 @@ SimpleBankSystem/
 4. View All Accounts
 0. Exit
 ```
+
+---
+
+## 📸 Screenshots
+Here are some sample screenshots of the project:
+
+### Main Menu
+![Main Menu](1.png)
+
+### Account Details Example
+![Account Details](2.png)
 
 ---
 
